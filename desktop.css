@@ -1,0 +1,13 @@
+
+body {
+  background-color: #444444;
+  color: #EAEAEA;
+  margin: 0;
+  /* padding: 20px; */
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+#center {
+  width: 500px;
+  margin: 0 auto;
+}
